@@ -1,0 +1,9 @@
+# d2finc
+
+This tool converts DLLs into INC files for use with FASM.
+
+Credits to:
+
+- Thomasz Grysztar for creating FASM.
+- Dmitry N. Kolesnikov for the original d2inc tool from 2004.
+- ChatGPT for writing 95% of this tool.
